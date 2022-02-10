@@ -9,10 +9,9 @@
                 <h2 class="about-title-1">Luigi Paglionico</h2>
                 <h2 class="about-title-2">Front-End</h2>
               </div>
-              <p class="about-text">Mi chiamo Luigi, ho 18 anni e sono di Bari. Mi sono appassionato di Web Developing da
-              pochi mesi, e ho iniziato a studiare autonomamente, tramite libri e documentazioni online.
-              Nel 2021 mi diplomerò presso un Istuto Tecnico (Articolazione " Sistemi Informativi Aziendali ") e vorrei fare
-              esperienza come Web Developer, precisamente come Front-End Dev.</p>
+              <p class="about-text">Mi chiamo Luigi, ho 18 anni e sono di Bari. Ho iniziato a studiare autonomamente, tramite libri e documentazioni online.
+              Nel 2021 mi sono diplomato presso un Istituto Tecnico (Articolazione " Sistemi Informativi Aziendali ") e attualmente
+              lavoro per IoAgri, come Front-End Developer</p>
             </div>
           </div>
           <a href="@/assets/download/CV-PaglionicoLuigi.pdf" download class="cvd">Scarica CV</a>

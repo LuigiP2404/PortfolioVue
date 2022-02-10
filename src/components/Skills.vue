@@ -46,7 +46,7 @@
             </div>
             <div class="card reveal3">
               <div class="box">
-                <i class="fab fa-php"></i></i>
+                <i class="fab fa-php"></i>
                 <div class="text">PHP</div>
                 <p>Gestione dei dati inseriti, invio email ecc...</p>
               </div>

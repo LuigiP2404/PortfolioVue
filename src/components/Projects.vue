@@ -23,7 +23,7 @@
                         <li>HTML</li>
                         <li>SASS</li>
                         <li>PHP</li>
-                        <li>JS</li>
+                        <li>VueJS</li>
                       </ul>
                     </div>
                   </div>
