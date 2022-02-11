@@ -10,7 +10,7 @@
         </div>
         <div class="back">
         <h3>{{ cardName }}</h3>
-        <p>{{ cardDesc }}</p>
+        <p v-html="cardDesc"></p>
         <div class="desc-container flex flex-jc-c flex-ai-c">
             <div class="desc-text">
             <p>Competenze:</p>
