@@ -107,8 +107,8 @@ export default {
                 'VueJS',
               ],
               cardLinks: [
-                'https://github.com/LuigiP2404/todo-list',
-                'https://luigip2404.github.io/todo-list',
+                'https://github.com/LuigiP2404/ToDoList',
+                'https://luigip2404.github.io/ToDoList/',
               ],
             },
             {
