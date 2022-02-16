@@ -1,5 +1,7 @@
 # portfolio_vue
 
+This project is hosted at --> https://luigip2404.github.io/Portfolio/
+
 ## Project setup
 ```
 npm install
