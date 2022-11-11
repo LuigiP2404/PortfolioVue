@@ -14,7 +14,7 @@
               lavoro per IoAgri - Agriverse, come Front-End Developer.</p>
             </div>
           </div>
-          <a href="../assets/download/CV-PaglionicoLuigi.pdf" download class="cvd">Scarica CV</a>
+          <a href="/Portfolio/CV-PaglionicoLuigi.pdf" download class="cvd">Scarica CV</a>
         </div>
       </section>
 </template>
